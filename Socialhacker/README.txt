@@ -15,4 +15,7 @@ from datetime import datetime
 import calendar
 import os
 from requests_toolbelt import MultipartEncoder
+first make sure you have the requirements
+then chmod +x smh.py
+then python smh.py
 
